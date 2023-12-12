@@ -1,0 +1,8 @@
+*.csv
+*.jpg
+*.png
+*.h5
+*.pkl
+# file.ipynb
+# classifier.pkl
+# shit.pkl
